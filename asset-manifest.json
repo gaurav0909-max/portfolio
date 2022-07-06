@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.77868c34.css",
-    "main.js": "/portfolio/static/js/main.342d5e22.js",
+    "main.js": "/portfolio/static/js/main.21b8b90d.js",
     "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Gauravpatel-resume.pdf": "/portfolio/static/media/Gauravpatel-resume.72ee91d8880d4c7c3499.pdf",
     "static/media/codeEditor.png": "/portfolio/static/media/codeEditor.1b585492490c8c1cace9.png",
     "static/media/blog.png": "/portfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
-    "static/media/Gauravpatel-resume.docx": "/portfolio/static/media/Gauravpatel-resume.ff4b9e7d7555365e2cd3.docx",
     "static/media/home-main.svg": "/portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/chatify.png": "/portfolio/static/media/chatify.7206044e0b5cdad44726.png",
@@ -16,12 +16,12 @@
     "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/portfolio/index.html",
     "main.77868c34.css.map": "/portfolio/static/css/main.77868c34.css.map",
-    "main.342d5e22.js.map": "/portfolio/static/js/main.342d5e22.js.map",
+    "main.21b8b90d.js.map": "/portfolio/static/js/main.21b8b90d.js.map",
     "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.77868c34.css",
-    "static/js/main.342d5e22.js"
+    "static/js/main.21b8b90d.js"
   ]
 }
